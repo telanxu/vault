@@ -46,6 +46,43 @@ DOMAIN-SUFFIX,mdlz.com
 DOMAIN-SUFFIX,emdlz.com.cn
 DOMAIN-SUFFIX,mondelezinternational.com
 
+# ImmortalWrt 在线更新服务
+DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+
+# ImmortalWrt 软件仓库
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,vsean.net
+
+# OpenWrt AI 站点
+DOMAIN-SUFFIX,openwrt.ai
+
+# 订阅转换
+DOMAIN-SUFFIX,apiurl.v1.mk
+
+# 追觅科技
+DOMAIN-SUFFIX,dreame.tech
+
+# 猫眼浏览器
+DOMAIN-SUFFIX,catsxp.com
+
+# 推送加
+DOMAIN-SUFFIX,pushplus.plus
+
+# Windows 网络连接探测
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+
+# 蓝点网
+DOMAIN-SUFFIX,landiannews.com
+DOMAIN-SUFFIX,lancdn.com
+
+# PT 下载相关
+DOMAIN-KEYWORD,tracker
+
+# 拓竹 3D 打印
+DOMAIN-SUFFIX,bambulab.com
+DOMAIN-SUFFIX,bblmw.com
+
 # Router managed 路由器管理域名
 DOMAIN-SUFFIX,linksyssmartwifi.com
 DOMAIN-SUFFIX,miwifi.com
