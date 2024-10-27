@@ -27,6 +27,7 @@ IP-CIDR,165.225.116.39,no-resolve
 
 # Mars IT Managed - Domain
 DOMAIN-SUFFIX,myworkday.com
+DOMAIN-SUFFIX,workday.com
 DOMAIN-SUFFIX,edcast.com
 DOMAIN-SUFFIX,okta.com
 DOMAIN-SUFFIX,ybrchina.com
@@ -39,6 +40,11 @@ DOMAIN-SUFFIX,gaiaworkforce.com
 DOMAIN-SUFFIX,exexm.com
 DOMAIN-SUFFIX,zscloud.net
 
+# Mondelēz IT Managed - Domain
+DOMAIN-SUFFIX,mdlz.cn
+DOMAIN-SUFFIX,mdlz.com
+DOMAIN-SUFFIX,emdlz.com.cn
+DOMAIN-SUFFIX,mondelezinternational.com
 
 # Router managed 路由器管理域名
 DOMAIN-SUFFIX,linksyssmartwifi.com
