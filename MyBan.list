@@ -1,0 +1,9 @@
+# My Personal Banned Domains & IPs
+
+# Mars IT Managed - Zscaler Internet Security Server
+DOMAIN-SUFFIX,zscloud.net
+IP-CIDR,58.220.95.15,no-resolve
+IP-CIDR,211.144.19.32,no-resolve
+IP-CIDR,165.225.116.39,no-resolve
+IP-CIDR,165.225.117.2,no-resolve
+IP-CIDR,165.225.117.3,no-resolve
