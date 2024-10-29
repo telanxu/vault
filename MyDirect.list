@@ -21,9 +21,12 @@ IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 
 # Mars IT Managed - Zscaler Internet Security Server
+DOMAIN-SUFFIX,zscloud.net
 IP-CIDR,58.220.95.15,no-resolve
 IP-CIDR,211.144.19.32,no-resolve
 IP-CIDR,165.225.116.39,no-resolve
+IP-CIDR,165.225.117.2,no-resolve
+IP-CIDR,165.225.117.3,no-resolve
 
 # Mars IT Managed - Domain
 DOMAIN-SUFFIX,myworkday.com
@@ -33,12 +36,10 @@ DOMAIN-SUFFIX,okta.com
 DOMAIN-SUFFIX,ybrchina.com
 DOMAIN-SUFFIX,kitesrm.com
 DOMAIN-SUFFIX,marschina.com
-DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,effem.com
 DOMAIN-SUFFIX,service-now.com
 DOMAIN-SUFFIX,gaiaworkforce.com
 DOMAIN-SUFFIX,exexm.com
-DOMAIN-SUFFIX,zscloud.net
 
 # Mondelēz IT Managed - Domain
 DOMAIN-SUFFIX,mdlz.cn
