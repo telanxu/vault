@@ -20,6 +20,10 @@ IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 
+# Windows 网络连接探测
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+
 # Mars IT Managed - Zscaler Internet Security Server
 DOMAIN-SUFFIX,zscloud.net
 IP-CIDR,58.220.95.15,no-resolve
@@ -57,28 +61,19 @@ DOMAIN-SUFFIX,vsean.net
 # OpenWrt AI 站点
 DOMAIN-SUFFIX,openwrt.ai
 
-# 订阅转换
-DOMAIN-SUFFIX,apiurl.v1.mk
+# Siri
+DOMAIN,guzzoni.apple.com
+
+# Aqara绿米
+DOMAIN-SUFFIX,aqara.cn
+DOMAIN-SUFFIX,aqara.com
+DOMAIN-SUFFIX,aqara.com.cn
+DOMAIN-SUFFIX,lumiunited.cn
+DOMAIN-SUFFIX,lumiunited.com
+DOMAIN-SUFFIX,lumiunited.com.cn
 
 # 追觅科技
 DOMAIN-SUFFIX,dreame.tech
-
-# 猫眼浏览器
-DOMAIN-SUFFIX,catsxp.com
-
-# 推送加
-DOMAIN-SUFFIX,pushplus.plus
-
-# Windows 网络连接探测
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-
-# 蓝点网
-DOMAIN-SUFFIX,landiannews.com
-DOMAIN-SUFFIX,lancdn.com
-
-# PT 下载相关
-DOMAIN-KEYWORD,tracker
 
 # 拓竹 3D 打印
 DOMAIN-SUFFIX,bambulab.com
