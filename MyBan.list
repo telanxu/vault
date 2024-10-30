@@ -4,7 +4,10 @@
 DOMAIN-SUFFIX,zscaler.com
 DOMAIN-SUFFIX,zscaler.net
 DOMAIN-SUFFIX,zscalerone.net
+DOMAIN-SUFFIX,zscalertwo.net
+DOMAIN-SUFFIX,zscalerthree.net
 DOMAIN-SUFFIX,zscloud.net
+DOMAIN-SUFFIX,zdxcloud.net
 DOMAIN-SUFFIX,crowdstrike.com
 IP-CIDR,58.220.95.15,no-resolve
 IP-CIDR,211.144.19.32,no-resolve
