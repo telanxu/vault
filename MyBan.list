@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,zscalerthree.net
 DOMAIN-SUFFIX,zscloud.net
 DOMAIN-SUFFIX,zdxcloud.net
 DOMAIN-SUFFIX,crowdstrike.com
-IP-CIDR,58.220.95.15,no-resolve
-IP-CIDR,211.144.19.32,no-resolve
-IP-CIDR,165.225.116.39,no-resolve
-IP-CIDR,165.225.117.2,no-resolve
-IP-CIDR,165.225.117.3,no-resolve
+IP-CIDR,58.220.95.15/32,no-resolve
+IP-CIDR,211.144.19.32/32,no-resolve
+IP-CIDR,165.225.116.39/32,no-resolve
+IP-CIDR,165.225.117.2/32,no-resolve
+IP-CIDR,165.225.117.3/32,no-resolve
