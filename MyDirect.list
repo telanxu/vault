@@ -83,6 +83,12 @@ DOMAIN-SUFFIX,mdlz.com
 DOMAIN-SUFFIX,emdlz.com.cn
 DOMAIN-SUFFIX,mondelezinternational.com
 
+# Hilton Hotel
+DOMAIN-SUFFIX,hilton.com
+DOMAIN-SUFFIX,hilton.com.cn
+DOMAIN-SUFFIX,hiltonhonors.com
+DOMAIN-SUFFIX,hhonors.com
+DOMAIN-SUFFIX,hhonors.com.cn
 
 # ImmortalWrt 在线更新服务
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
