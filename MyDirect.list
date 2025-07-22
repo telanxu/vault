@@ -101,7 +101,7 @@ DOMAIN-SUFFIX,vsean.net
 
 # OpenWrt AI 站点
 DOMAIN-SUFFIX,openwrt.ai
-DOMAIN-SUFFIX,t.co
+
 # Siri
 DOMAIN,guzzoni.apple.com
 
