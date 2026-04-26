@@ -106,6 +106,17 @@ DOMAIN-SUFFIX,hilton.com.cn
 DOMAIN-SUFFIX,hiltonhonors.com
 DOMAIN-SUFFIX,hhonors.com
 DOMAIN-SUFFIX,hhonors.com.cn
+DOMAIN-SUFFIX,m.hilton.io
+DOMAIN-SUFFIX,conductrics.net
+DOMAIN-SUFFIX,qualtrics.com
+DOMAIN-SUFFIX,hiltonapi.com
+DOMAIN-SUFFIX,adobedc.net
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,forter.com
+DOMAIN-SUFFIX,emb-api.com
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,demdex.net
 
 # ImmortalWrt 在线更新服务
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
