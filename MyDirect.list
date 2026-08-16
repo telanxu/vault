@@ -24,6 +24,12 @@ IP-CIDR6,fd00::/8,no-resolve
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 
+# BlueLink China App Bypass
+DOMAIN-SUFFIX,hmgmobility.com.cn
+DOMAIN-SUFFIX,hyundaibluelink.com.cn
+DOMAIN-SUFFIX,jiayudata.com
+DOMAIN-SUFFIX,hyundai.com.cn
+
 # Mars Security Bypass
 DOMAIN-SUFFIX,zscaler.com
 DOMAIN-SUFFIX,zscaler.net
