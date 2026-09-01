@@ -1,16 +1,24 @@
 # My Personal Banned Domains & IPs
 
 # Mars IT Managed - Zscaler Internet Security Server
-# DOMAIN-SUFFIX,zscaler.com
-# DOMAIN-SUFFIX,zscaler.net
-# DOMAIN-SUFFIX,zscalerone.net
-# DOMAIN-SUFFIX,zscalertwo.net
-# DOMAIN-SUFFIX,zscalerthree.net
-# DOMAIN-SUFFIX,zscloud.net
-# DOMAIN-SUFFIX,zdxcloud.net
-# DOMAIN-SUFFIX,crowdstrike.com
-# IP-CIDR,58.220.95.15/32,no-resolve
-# IP-CIDR,211.144.19.32/32,no-resolve
-# IP-CIDR,165.225.116.39/32,no-resolve
-# IP-CIDR,165.225.117.2/32,no-resolve
-# IP-CIDR,165.225.117.3/32,no-resolve
+DOMAIN-SUFFIX,zscaler.com
+DOMAIN-SUFFIX,zscaler.net
+DOMAIN-SUFFIX,zscalerone.net
+DOMAIN-SUFFIX,zscalertwo.net
+DOMAIN-SUFFIX,zscalerthree.net
+DOMAIN-SUFFIX,zscloud.net
+DOMAIN-SUFFIX,zdxcloud.net
+DOMAIN-SUFFIX,crowdstrike.com
+DOMAIN-SUFFIX,zscalergov.net
+DOMAIN-SUFFIX,zdxcloud.net
+DOMAIN-SUFFIX,zpatwo.net
+DOMAIN-SUFFIX,private.zscaler.com
+DOMAIN-KEYWORD,zscaler
+DOMAIN-KEYWORD,zpath
+DOMAIN-KEYWORD,zcc.
+DOMAIN-SUFFIX,crowdstrike.com
+IP-CIDR,58.220.95.15/32,no-resolve
+IP-CIDR,211.144.19.32/32,no-resolve
+IP-CIDR,165.225.116.39/32,no-resolve
+IP-CIDR,165.225.117.2/32,no-resolve
+IP-CIDR,165.225.117.3/32,no-resolve
