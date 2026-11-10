@@ -74,7 +74,8 @@ DOMAIN-SUFFIX,service-now.com
 DOMAIN-SUFFIX,gaiaworkforce.com
 DOMAIN-SUFFIX,exexm.com
 
-# Mars Teams and Skype for Business Bypass
+# Mars Teams and Outlooks Bypass
+DOMAIN-SUFFIX,cloud.microsoft
 DOMAIN-SUFFIX,login.microsoftonline.com
 DOMAIN-SUFFIX,lync.com
 DOMAIN-SUFFIX,broadcast.skype.com
